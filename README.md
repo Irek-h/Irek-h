@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on
   - AWS assume role with yubikey automation in powershell and python
+  - Writing thesis for my bachelor of engineering in computer science
 - 🌱 I’m currently learning
   - RedTeam
     - https://my.ine.com/CyberSecurity/courses/6f986ca5/penetration-testing-basics
@@ -11,6 +12,10 @@
     - https://blueteamlabs.online/public/user/44b884c3ec9ce670f0d455
   - Programming
     - https://automatetheboringstuff.com
+- 💬 Ask me about
+  - How to deploy elasticsearch as SIEM in company or as a home lab
+  - AWS security
+  - How to start in cybersecurity
 - 📫 How to reach me:
   - ireneusz.opalinski.work@gmail.com
   - https://www.linkedin.com/in/ireneusz-opalinski/
