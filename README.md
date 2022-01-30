@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 📫 How to reach me:
+  - ireneusz.opalinski.work@gmail.com
+  - https://www.linkedin.com/in/ireneusz-opalinski/
+<!--
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ireneusz-opalinski/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ireneusz.opalinski.work@gmail.com)
+
 <!--
 **Irek-h/Irek-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
