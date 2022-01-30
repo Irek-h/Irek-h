@@ -1,11 +1,21 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on
+  - AWS assume role with yubikey automation in powershell and python
+- 🌱 I’m currently learning
+  - RedTeam
+    - https://my.ine.com/CyberSecurity/courses/6f986ca5/penetration-testing-basics
+    - https://elearnsecurity.com/product/ejpt-certification/
+  - BlueTeam
+    - https://blueteamlabs.online/public/user/44b884c3ec9ce670f0d455
+  - Programming
+    - https://automatetheboringstuff.com
 - 📫 How to reach me:
   - ireneusz.opalinski.work@gmail.com
   - https://www.linkedin.com/in/ireneusz-opalinski/
+- ⚡ Fun fact:
+  - Not only I work in AWS, but also I can predict the weather with clouds.
 <!--
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ireneusz-opalinski/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ireneusz.opalinski.work@gmail.com)
