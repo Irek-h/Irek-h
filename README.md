@@ -13,7 +13,7 @@
   - Programming
     - https://automatetheboringstuff.com
 - 💬 Ask me about
-  - How to deploy elasticsearch as SIEM in company or as a home lab
+  - How to deploy elasticsearch as SIEM in company or home lab
   - AWS security
   - How to start in cybersecurity
 - 📫 How to reach me:
@@ -22,6 +22,7 @@
 - ⚡ Fun fact:
   - Not only I work in AWS, but also I can predict the weather with clouds
   - Hitchhiked from Poland to Greece and Split
+  - Had an episode (6 years) as a professional League of Legends player https://lol.fandom.com/wiki/Iluzjonist
 <!--
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ireneusz-opalinski/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ireneusz.opalinski.work@gmail.com)
