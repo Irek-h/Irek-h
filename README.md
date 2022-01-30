@@ -20,7 +20,8 @@
   - ireneusz.opalinski.work@gmail.com
   - https://www.linkedin.com/in/ireneusz-opalinski/
 - ⚡ Fun fact:
-  - Not only I work in AWS, but also I can predict the weather with clouds.
+  - Not only I work in AWS, but also I can predict the weather with clouds
+  - Hitchhiked from Poland to Greece and Split
 <!--
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ireneusz-opalinski/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ireneusz.opalinski.work@gmail.com)
