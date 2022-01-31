@@ -16,6 +16,9 @@
   - How to deploy elasticsearch as SIEM in company or home lab
   - AWS security
   - How to start in cybersecurity
+- 👯 I’m looking to collaborate on
+  - Pentesting AWS accounts
+  - Securing AWS accounts
 - 📫 How to reach me:
   - ireneusz.opalinski.work@gmail.com
   - https://www.linkedin.com/in/ireneusz-opalinski/
