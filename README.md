@@ -1,4 +1,4 @@
-### Hi there I'm Infrastructure Security Engineer/Architect at Shiji 👋
+### Hi there, I'm Irek - Infrastructure Security Engineer/Architect at Shiji 👋
 
 
 - 🔭 I’m currently working on
