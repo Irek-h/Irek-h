@@ -10,6 +10,7 @@
     - https://elearnsecurity.com/product/ejpt-certification/
   - BlueTeam
     - https://blueteamlabs.online/public/user/44b884c3ec9ce670f0d455
+    - https://www.packtpub.com/product/threat-hunting-with-elastic-stack/9781801073783
   - Programming
     - https://automatetheboringstuff.com
 - 💬 Ask me about
