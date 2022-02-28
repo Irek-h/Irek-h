@@ -1,4 +1,4 @@
-### Hi there, I'm Irek - Infrastructure Security Engineer/Architect at Shiji 👋
+### Hi there, I'm Irek - Infrastructure Security Engineer at Shiji 👋
 
 
 - 🔭 I’m currently working on
@@ -13,6 +13,7 @@
     - https://www.packtpub.com/product/threat-hunting-with-elastic-stack/9781801073783
   - Programming
     - https://automatetheboringstuff.com
+    - Terraform
 - 💬 Ask me about
   - How to deploy elasticsearch as SIEM in company or home lab
   - AWS security
